@@ -114,7 +114,7 @@ Recommended layout:
 C:\PCMaintenance\
 ├── pc_cleanup_maintenance_v15.ps1
 ├── pc_cleanup_config_template_v15.json
-├── Silicon Beach.png
+├── logo.png
 └── Reports\
     ├── 20260510_091500-Audit\
     └── 20260510_103200-Cleanup\
